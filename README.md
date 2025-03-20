@@ -16,13 +16,13 @@ tudo na palma da mão. Ideal para quem busca praticidade e agilidade nas compras
 
 ###
 
-<h2>O que aprendi</h2>
+<h2>O que aprendi 📄✏️</h2>
 <p>Recentemente, tive a oportunidade de aplicar meus conhecimentos em programação, em um projeto responsivo, adaptável a diversos tipos de tela. 
   Essa experiência incrível me permitiu explorar novas tecnologias e aprimorar minhas habilidades. Estou animada para compartilhar os resultados e continuar aprendendo!</p>
 
 #
 
-<p>Neste projeto, utilizei tecnologias como:</p>
+<p>🤖💻Neste projeto, utilizei tecnologias como:</p>
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="badge-html"/>
