@@ -31,4 +31,6 @@ tudo na palma da mão. Ideal para quem busca praticidade e agilidade nas compras
 <br>
 
 
+Link: https://easyshoppingviamobile.programadorawebrenatarocha.com.br/
+
 ![WhatsApp Image 2025-03-18 at 16 27 05](https://github.com/user-attachments/assets/9ad17d43-45e9-4a54-896a-419e700dcb30)
