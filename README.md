@@ -25,7 +25,7 @@ O objetivo é proporcionar uma navegação fluida e intuitiva, permitindo que os
 
 <h2>🎨 Layout</h2>
 
-Link: https://easyshoppingviamobile.programadorawebrenatarocha.com.br/
+Link: https://renataarocha.github.io/Easy-Shopping-Via-Mobile/
 
 ![WhatsApp Image 2025-03-18 at 16 27 05](https://github.com/user-attachments/assets/9ad17d43-45e9-4a54-896a-419e700dcb30)
 <br>
@@ -37,7 +37,7 @@ git clone https://github.com/RenataARocha?tab=repositories <br> <br>
 2. Acesse a pasta do projeto: <br>
 cd Projeto---Easy-Shopping-Via-mobile <br> <br>
 3. Abra o Link em seu navegador. <br>
-https://easyshoppingviamobile.programadorawebrenatarocha.com.br/ <br> <br>
+https://renataarocha.github.io/Easy-Shopping-Via-Mobile/ <br> <br>
 
 
 <h2>🤝 Contribuição</h2>
